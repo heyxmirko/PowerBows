@@ -1,5 +1,5 @@
 # PowerBows 1.0
-Minecraft 1.19.2 plugin
+Minecraft 1.19.2 paper plugin
 
 **/give-bow [bow]**
 
