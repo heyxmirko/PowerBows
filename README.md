@@ -1,4 +1,4 @@
-# PowerBows
+# PowerBows 1.0
 Minecraft 1.19.2 plugin
 
 **/give-bow [bow]**
